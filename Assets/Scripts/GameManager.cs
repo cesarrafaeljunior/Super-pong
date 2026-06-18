@@ -23,9 +23,6 @@ public class GameManager : MonoBehaviour
 
     private float timer = 0f;
 
-
-
-
     public Ball ball;
     public Text score;
 
