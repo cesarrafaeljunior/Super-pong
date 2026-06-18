@@ -1,8 +1,4 @@
-using UnityEditor.ShaderGraph.Internal;
 using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.Controls;
-using UnityEngine.UIElements;
 
 public class Paddle : MonoBehaviour
 {
