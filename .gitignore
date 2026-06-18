@@ -1,0 +1,29 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[R]ecords/
+ServerData/
+
+# IDEs
+.vs/
+.idea/
+.vscode/
+
+# Arquivos de build
+*.apk
+*.aab
+*.unitypackage
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Crash Reports
+sysinfo.txt
